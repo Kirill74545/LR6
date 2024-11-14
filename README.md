@@ -118,21 +118,13 @@ $ git log --pretty=format:"%h %ad %an %s" --date=short
 
 ## 15. История операций
 Список истории операций:
-+242fdd0 2024-11-14 Kirill Chertkov Добавлен отчет
-
-+b9641f8 2024-11-14 Kirill Chertkov Добавлена папка со скринами
-
-+51b3685 2024-11-14 Kirill Chertkov Добавлена программа
-
-+747264c 2024-11-14 Kirill Chertkov Merge remote-tracking branch 'origin/branch1'
-
-+548fa80 2024-11-14 Kirill Chertkov Create file.txt
-
-+921f53b 2020-11-21 Kurtyanik Обновление информации
-
-+0f9f50d 2020-11-21 Kurtyanik Заполнил файл
-
-+c08a654 2020-11-21 Kurtyanik Файл создан пустым
-
-+3c6e913 2020-11-21 Kurtyanik Initial commit
++ 242fdd0 2024-11-14 Kirill Chertkov Добавлен отчет
++ b9641f8 2024-11-14 Kirill Chertkov Добавлена папка со скринами
++ 51b3685 2024-11-14 Kirill Chertkov Добавлена программа
++ 747264c 2024-11-14 Kirill Chertkov Merge remote-tracking branch 'origin/branch1'
++ 548fa80 2024-11-14 Kirill Chertkov Create file.txt
++ 921f53b 2020-11-21 Kurtyanik Обновление информации
++ 0f9f50d 2020-11-21 Kurtyanik Заполнил файл
++ c08a654 2020-11-21 Kurtyanik Файл создан пустым
++ 3c6e913 2020-11-21 Kurtyanik Initial commit
 
